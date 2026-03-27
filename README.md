@@ -7,7 +7,7 @@ Aqui é onde concentro projetos, estudos e experimentos focados **exclusivamente
 
 ## 🧠 Sobre mim
 
-* 💻 Desenvolvedor focado em **back-end** e **sistemas**
+* 💻 Desenvolvedor focado em **back-end**, **sistemas** e **Deep Learning**
 * 🦀 Entusiasta de **Rust** (segurança, performance e sistemas robustos)
 * 🐍 Usuário de **Python** para automações, scripts e protótipos
 * 📚 Sempre estudando boas práticas, arquitetura e lógica
